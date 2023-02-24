@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Carlos Kelaidis</h1>
 <h3 align="center">Data Scientist from Greece and Switzerland</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
+<img align="right" alt="Coding" width="150" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckelaid&label=Profile%20views&color=0e75b6&style=flat" alt="ckelaid" /> </p>
