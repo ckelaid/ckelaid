@@ -1,5 +1,6 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://joelkingsley.files.wordpress.com/2020/10/top-5-data-science-strategy-predictions-2020-1024x440-1.jpeg)](https://ckelaid.github.io/DS_Portfolio/)
+
 <h1 align="center">Hi 👋, I'm Carlos Kelaidis</h1>
 <h3 align="center">Data Scientist from Greece and Switzerland</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/3a/ac/e2/3aace283f5230e04377a5e8dbd4e13f9.gif">
