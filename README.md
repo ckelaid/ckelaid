@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **Fraud detection, Quantitative Asset Management and Algorithmic Trading, as well as text augmentation for NLP**
 
-- 🤝 I’m looking for help with **Applying Data Science to the Insurance domain and Quantitative Analysis**
-
-- 📫 How to reach me **ckelaid@g.clemson.edu**
+- 📫 How to reach me **carlos.kelaidis@gmail.com**
 
 - ⚡ Fun fact **I was ranked #75 in the US as a collegiate tennis player and #175 in the world as a junior tennis player**
 
