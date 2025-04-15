@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckelaid&label=Profile%20views&color=0e75b6&style=flat" alt="ckelaid" /> </p>
 
 
-- 🔭 I’m currently working on **Time-Series Analysis and Biomedical NLP**
+- 🔭 I’m currently working on **AI and ML Engineering**.
 
-- 🌱 I’m currently learning **Fraud detection, Quantitative Asset Management and Algorithmic Trading, as well as text augmentation for NLP**
+- 🌱 I’m currently learning **Quantitative Asset Management, Algorithmic Trading, and deploying LLM Apps into production**.
 
 - 📫 How to reach me **carlos.kelaidis@gmail.com**
 
-- ⚡ Fun fact **I was ranked #75 in the US as a collegiate tennis player and #175 in the world as a junior tennis player**
+- ⚡ Fun fact **I was ranked #75 in the US as a collegiate tennis player and #175 in the world as a junior tennis player**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
